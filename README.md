@@ -3,4 +3,4 @@
 
 ![image](bild.jpg)
 
-Data scientist with a research background in theoretical mathematics with connections to quantum physics. Pasionate about learning and teaching. 
+Data scientist with a background in theoretical mathematics with connections to quantum physics. Pasionate about learning and teaching. I thrive in a fast pace environment and I am constantly learning about new techniques.
